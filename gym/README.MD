@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Gym Manager 🚀</h1>
 
-![Badge](/github/login.gif)
+![Badge](./github/login.gif)
 
 ## 💻 Proposta do projeto
 
