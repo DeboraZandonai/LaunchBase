@@ -44,7 +44,7 @@ Realizar os desafios lançados durante o curso LaunchBase da Rocketseat, cujo ob
 ### Clone o repositório para ter uma cópia do código em sua máquina
 
 ```bash
-$ git clone https://github.com/DeboraZandonai/LaunchBase.git
+$ git clone https://github.com/DeboraZandonai/LaunchBase/desafios.git
 ```
 
 ### Entre em algum arquivo e execute
