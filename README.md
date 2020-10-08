@@ -11,6 +11,34 @@ Objetivo deste repositório será colocar todos os projetos, desafios e aprendiz
 - [Desafios](./desafios)
 - [GymManager](./gym)
 
+<h2>
+  📌 Para ter uma cópia do projeto
+</h2>
+
+### Clone o repositório para ter uma cópia do código em sua máquina
+
+```bash
+$ git clone hhttps://github.com/DeboraZandonai/LaunchBase.git
+```
+
+### Navegue até a pasta do projeto e substitua o campo caminho por desafios ou gym
+
+```bash
+$ cd Launchase/caminho
+```
+
+### Carregue as dependências
+
+```bash
+$ npm install
+```
+
+### Rode o projeto
+
+```bash
+$ npm start
+```
+
 ## 📝 Licença
 
 Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
