@@ -49,13 +49,13 @@ Desenvolver um sistema de controle de academias.
 ### Faça um fork utilizando a linha de comando oficial do GitHub
 
 ```bash
-$ gh repo fork DeboraZandonai/Gym-Manager
+$ gh repo fork DeboraZandonai/LaunchBase/gym
 ```
 
 ### Clone o seu fork e substitua o campo caminho por server, web ou mobile
 
 ```bash
-$ git clone url-do-seu-fork && cd Gym-Manager
+$ git clone url-do-seu-fork && cd gym
 ```
 
 ### Crie uma branch com as suas features
@@ -85,13 +85,13 @@ Depois que a sua pull request for aceita você pode deletar a sua branch.
 ### Clone o repositório para ter uma cópia do código em sua máquina
 
 ```bash
-$ git clone https://github.com/DeboraZandonai/Gym-Manager.git
+$ git clone https://github.com/DeboraZandonai/LaunchBase/gym.git
 ```
 
 ### Navegue até a pasta do projeto
 
 ```bash
-$ cd Gym-Manager
+$ cd Launchbase/gym
 ```
 
 ### Carregue as dependências
